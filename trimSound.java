@@ -14,3 +14,8 @@ public void trimSilenceFromBeginning();
 
    samples = new;
 }
+
+public static main();
+{
+    trimSilenceFromBeginning()
+}
